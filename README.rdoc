@@ -1,3 +1,13 @@
+= THIS IS NOT THE OFFICIAL MONGOMAPPER 
+
+I've changed this just to make it working with Ruby2 / Rails4
+
+
+
+
+
+
+
 = MongoMapper
 
 A Ruby Object Mapper for Mongo.
